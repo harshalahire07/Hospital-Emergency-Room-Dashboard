@@ -10,7 +10,7 @@ This project was created as part of my learning journey to strengthen my Excel a
 
 > Replace the image path below with your uploaded screenshot.
 
-![Hospital Emergency Room Dashboard](Hospital-Emergency-Room-Dashboard/Final_Dashboard.png)
+![Hospital Emergency Room Dashboard](Hospital_Emergency_Room_Dashboard/Final_Dashboard.png)
 
 ---
 
