@@ -122,7 +122,7 @@ https://youtu.be/503-_4XI_qA
 
 **Harshal Ahire**
 
-- LinkedIn: *(Add your LinkedIn profile link here)*
+- LinkedIn: https://www.linkedin.com/in/harshal-ahire07
 - GitHub: https://github.com/harshalahire07
 
 ---
